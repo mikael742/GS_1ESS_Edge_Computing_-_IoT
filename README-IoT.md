@@ -66,6 +66,9 @@ A conexão dos componentes no Wokwi deve seguir o esquema detalhado abaixo:
 
 O código fonte (`monitoramento_wokwi_v5_alternado.ino`), que implementa a exibição alternada no LCD, está incluído neste repositório.
 
+## 3.1 Imagem do Projeto
+![Imagem do Projeto](./projeto_GS.png)
+
 ## 4. Guia para Simular o Projeto no Wokwi
 
 Para montar e simular o projeto:

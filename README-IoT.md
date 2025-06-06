@@ -50,10 +50,6 @@ A conexão dos componentes no Wokwi deve seguir o esquema detalhado abaixo:
 *   **LEDs (c/ Resistor 220Ω):** Verde(A)->R->D2, C->GND; Amarelo(A)->R->D3, C->GND; Vermelho(A)->R->D4, C->GND.
 *   **Buzzer:** (+) -> D5, (-) -> GND.
 
-**Figura Ilustrativa 1: Esquema de Montagem no Wokwi**
-
-*(Descrição: Inserir captura de tela do circuito final montado no Wokwi, mostrando todas as conexões.)*
-
 ### 2.4. Lógica de Funcionamento (com LCD Alternado)
 
 1.  **Inicialização:** Configura pinos, inicializa sensores e LCD.
@@ -65,10 +61,6 @@ A conexão dos componentes no Wokwi deve seguir o esquema detalhado abaixo:
     *   Tela 2: Luminosidade (Valor bruto do LDR e indicação Alta/Baixa).
 5.  **Monitor Serial:** Envia todos os dados brutos e status para depuração.
 6.  **Repetição:** O ciclo se repete, garantindo monitoramento constante e exibição atualizada.
-
-**Figura Ilustrativa 2: Fluxograma da Lógica Final (com LCD Alternado)**
-
-*(Descrição: Inserir fluxograma atualizado mostrando o loop de leitura, a lógica de decisão, o acionamento dos atuadores e a exibição alternada no LCD.)*
 
 ## 3. Código Fonte
 
@@ -86,18 +78,14 @@ Para montar e simular o projeto:
 6.  Observe o LCD alternar entre as telas e o Monitor Serial.
 7.  Interaja com os sensores (clicando neles) para testar as diferentes condições e alertas.
 
-## 5. Roteiro Sugerido para Vídeo Demonstrativo (Foco em Prevenção)
-
-*(Você pode usar o roteiro fornecido anteriormente ou criar o seu, focando em como os dados ajudam na prevenção. Lembre-se de manter o vídeo com até 3 minutos.)*
-
-## 6. Links Importantes
+## 5. Links Importantes
 
 *   **Link direto para o projeto no Simulador Wokwi:**
     *   https://wokwi.com/projects/433025962795675649
 *   **Link para o Vídeo Demonstrativo:**
     *   https://drive.google.com/file/d/1DuwIhp3-RgId4WJEpyjVgsr3L8K5jQG_/view?usp=drivesdk
 
-## 7. Desenvolvedores
+## 6. Desenvolvedores
 Mikael de Albuquerque Santana RM 566507
 Murilo Cruz                   RM 563743 
 Otávio Magno da Silva         RM 566149

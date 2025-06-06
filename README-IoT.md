@@ -87,6 +87,8 @@ Para montar e simular o projeto:
     *   https://wokwi.com/projects/433025962795675649
 *   **Link para o Vídeo Demonstrativo:**
     *   https://drive.google.com/file/d/1DuwIhp3-RgId4WJEpyjVgsr3L8K5jQG_/view?usp=drivesdk
+*   **Link para o repositório no GitHub**
+    *   https://github.com/mikael742/GS_1ESS_Edge_Computing_-_IoT.git
 
 ## 6. Desenvolvedores
 Mikael de Albuquerque Santana RM 566507
